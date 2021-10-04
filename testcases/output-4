@@ -1,0 +1,659 @@
+-----Option 1: All passengers are placed in one queue.-----
+New passenger 1 is arrived at 0 min
+ passenger 1Service time: 11 min
+Service Station 1 take Passenger 1 at 0
+New passenger 2 is arrived at 6 min
+ passenger 2Service time: 22 min
+Service Station 2 take Passenger 2 at 6
+New passenger 3 is arrived at 9 min
+ passenger 3Service time: 4 min
+Service Station 3 take Passenger 3 at 9
+Passenger 1 received service and left station at 11 min
+New passenger 4 is arrived at 12 min
+ passenger 4Service time: 2 min
+Service Station 1 take Passenger 4 at 12
+Passenger 3 received service and left station at 13 min
+Passenger 4 received service and left station at 14 min
+New passenger 5 is arrived at 15 min
+ passenger 5Service time: 24 min
+Service Station 1 take Passenger 5 at 15
+New passenger 6 is arrived at 25 min
+ passenger 6Service time: 52 min
+Service Station 3 take Passenger 6 at 25
+New passenger 7 is arrived at 27 min
+ passenger 7Service time: 21 min
+Service Station 4 take Passenger 7 at 27
+Passenger 2 received service and left station at 28 min
+New passenger 8 is arrived at 33 min
+ passenger 8Service time: 32 min
+Service Station 2 take Passenger 8 at 33
+Passenger 5 received service and left station at 39 min
+New passenger 9 is arrived at 48 min
+ passenger 9Service time: 26 min
+Service Station 1 take Passenger 9 at 48
+Passenger 7 received service and left station at 48 min
+Passenger 8 received service and left station at 65 min
+Passenger 9 received service and left station at 74 min
+New passenger 10 is arrived at 76 min
+ passenger 10Service time: 56 min
+Service Station 1 take Passenger 10 at 76
+Passenger 6 received service and left station at 77 min
+New passenger 11 is arrived at 83 min
+ passenger 11Service time: 39 min
+Service Station 2 take Passenger 11 at 83
+New passenger 12 is arrived at 96 min
+ passenger 12Service time: 56 min
+Service Station 3 take Passenger 12 at 96
+New passenger 13 is arrived at 103 min
+ passenger 13Service time: 5 min
+Service Station 4 take Passenger 13 at 103
+Passenger 13 received service and left station at 108 min
+New passenger 14 is arrived at 110 min
+ passenger 14Service time: 17 min
+Service Station 4 take Passenger 14 at 110
+New passenger 15 is arrived at 121 min
+ passenger 15Service time: 10 min
+Service Station 5 take Passenger 15 at 121
+Passenger 11 received service and left station at 122 min
+Passenger 14 received service and left station at 127 min
+Passenger 15 received service and left station at 131 min
+Passenger 10 received service and left station at 132 min
+New passenger 16 is arrived at 135 min
+ passenger 16Service time: 51 min
+Service Station 1 take Passenger 16 at 135
+New passenger 17 is arrived at 136 min
+ passenger 17Service time: 48 min
+Service Station 2 take Passenger 17 at 136
+New passenger 18 is arrived at 141 min
+ passenger 18Service time: 13 min
+Service Station 4 take Passenger 18 at 141
+New passenger 19 is arrived at 150 min
+ passenger 19Service time: 18 min
+Service Station 5 take Passenger 19 at 150
+Passenger 12 received service and left station at 152 min
+New passenger 20 is arrived at 154 min
+ passenger 20Service time: 10 min
+Service Station 3 take Passenger 20 at 154
+Passenger 18 received service and left station at 154 min
+Passenger 20 received service and left station at 164 min
+Passenger 19 received service and left station at 168 min
+New passenger 21 is arrived at 170 min
+ passenger 21Service time: 20 min
+Service Station 3 take Passenger 21 at 170
+New passenger 22 is arrived at 171 min
+ passenger 22Service time: 27 min
+Service Station 4 take Passenger 22 at 171
+New passenger 23 is arrived at 178 min
+ passenger 23Service time: 48 min
+Service Station 5 take Passenger 23 at 178
+Passenger 17 received service and left station at 184 min
+Passenger 16 received service and left station at 186 min
+Passenger 21 received service and left station at 190 min
+New passenger 24 is arrived at 193 min
+ passenger 24Service time: 15 min
+Service Station 1 take Passenger 24 at 193
+New passenger 25 is arrived at 194 min
+ passenger 25Service time: 32 min
+Service Station 2 take Passenger 25 at 194
+Passenger 22 received service and left station at 198 min
+Passenger 24 received service and left station at 208 min
+Passenger 25 received service and left station at 226 min
+Passenger 23 received service and left station at 226 min
+New passenger 26 is arrived at 230 min
+ passenger 26Service time: 51 min
+Service Station 1 take Passenger 26 at 230
+New passenger 27 is arrived at 274 min
+ passenger 27Service time: 5 min
+Service Station 2 take Passenger 27 at 274
+New passenger 28 is arrived at 279 min
+ passenger 28Service time: 13 min
+Service Station 3 take Passenger 28 at 279
+Passenger 27 received service and left station at 279 min
+Passenger 26 received service and left station at 281 min
+Passenger 28 received service and left station at 292 min
+New passenger 29 is arrived at 296 min
+ passenger 29Service time: 46 min
+Service Station 1 take Passenger 29 at 296
+New passenger 30 is arrived at 298 min
+ passenger 30Service time: 49 min
+Service Station 2 take Passenger 30 at 298
+New passenger 31 is arrived at 299 min
+ passenger 31Service time: 44 min
+Service Station 3 take Passenger 31 at 299
+New passenger 32 is arrived at 304 min
+ passenger 32Service time: 55 min
+Service Station 4 take Passenger 32 at 304
+New passenger 33 is arrived at 305 min
+ passenger 33Service time: 56 min
+Service Station 5 take Passenger 33 at 305
+New passenger 34 is arrived at 306 min
+ passenger 34Service time: 35 min
+New passenger 35 is arrived at 312 min
+ passenger 35Service time: 8 min
+New passenger 36 is arrived at 320 min
+ passenger 36Service time: 44 min
+New passenger 37 is arrived at 332 min
+ passenger 37Service time: 1 min
+Passenger 29 received service and left station at 342 min
+Service Station 1 take Passenger 34 at 343
+Passenger 31 received service and left station at 343 min
+Service Station 3 take Passenger 35 at 344
+Passenger 30 received service and left station at 347 min
+Service Station 2 take Passenger 36 at 348
+Passenger 35 received service and left station at 352 min
+Service Station 3 take Passenger 37 at 353
+Passenger 37 received service and left station at 354 min
+Passenger 32 received service and left station at 359 min
+Passenger 33 received service and left station at 361 min
+Passenger 34 received service and left station at 378 min
+Passenger 36 received service and left station at 392 min
+------------------------------------------------
+Duration of simulation: 393 min
+Maximum length of the queue: 4
+Maximum waiting of the queue: 37 min
+Average waiting: 3 min
+Rate of occupancy of station 1: 80 %
+Rate of occupancy of station 2: 68 %
+Rate of occupancy of station 3: 52 %
+Rate of occupancy of station 4: 35 %
+Rate of occupancy of station 5: 33 %
+
+-----Option 2: Each service station has their dedicated queue.-----
+
+--------------------------2A: Round Robin--------------------------
+New passenger 1 is arrived at 2 min
+Service time: 26 min
+Passenger 1 is dispatched to Service Station 1
+New passenger 2 is arrived at 14 min
+Service time: 47 min
+Passenger 2 is dispatched to Service Station 2
+New passenger 3 is arrived at 16 min
+Service time: 39 min
+Passenger 3 is dispatched to Service Station 3
+New passenger 4 is arrived at 26 min
+Service time: 57 min
+Passenger 4 is dispatched to Service Station 4
+New passenger 5 is arrived at 27 min
+Service time: 22 min
+Passenger 5 is dispatched to Service Station 5
+Passenger 1 received service and left station at 28 min
+New passenger 6 is arrived at 33 min
+Service time: 55 min
+Passenger 6 is dispatched to Service Station 1
+New passenger 7 is arrived at 37 min
+Service time: 36 min
+Passenger 7 is dispatched to Service Station 2
+New passenger 8 is arrived at 47 min
+Service time: 42 min
+Passenger 8 is dispatched to Service Station 3
+Passenger 5 received service and left station at 49 min
+Passenger 3 received service and left station at 55 min
+New passenger 9 is arrived at 60 min
+Service time: 52 min
+Passenger 9 is dispatched to Service Station 4
+Passenger 2 received service and left station at 61 min
+Passenger 4 received service and left station at 83 min
+New passenger 10 is arrived at 85 min
+Service time: 13 min
+Passenger 10 is dispatched to Service Station 5
+New passenger 11 is arrived at 86 min
+Service time: 15 min
+Passenger 11 is dispatched to Service Station 1
+Passenger 6 received service and left station at 88 min
+Passenger 7 received service and left station at 97 min
+Passenger 8 received service and left station at 97 min
+Passenger 10 received service and left station at 98 min
+Passenger 11 received service and left station at 103 min
+New passenger 12 is arrived at 115 min
+Service time: 19 min
+Passenger 12 is dispatched to Service Station 2
+New passenger 13 is arrived at 116 min
+Service time: 18 min
+Passenger 13 is dispatched to Service Station 3
+New passenger 14 is arrived at 131 min
+Service time: 32 min
+Passenger 14 is dispatched to Service Station 4
+New passenger 15 is arrived at 133 min
+Service time: 18 min
+Passenger 15 is dispatched to Service Station 5
+Passenger 12 received service and left station at 134 min
+Passenger 13 received service and left station at 134 min
+New passenger 16 is arrived at 135 min
+Service time: 39 min
+Passenger 16 is dispatched to Service Station 1
+Passenger 9 received service and left station at 135 min
+Passenger 15 received service and left station at 151 min
+New passenger 17 is arrived at 162 min
+Service time: 25 min
+Passenger 17 is dispatched to Service Station 2
+Passenger 14 received service and left station at 167 min
+Passenger 16 received service and left station at 174 min
+New passenger 18 is arrived at 177 min
+Service time: 35 min
+Passenger 18 is dispatched to Service Station 3
+New passenger 19 is arrived at 178 min
+Service time: 10 min
+Passenger 19 is dispatched to Service Station 4
+Passenger 17 received service and left station at 187 min
+Passenger 19 received service and left station at 188 min
+New passenger 20 is arrived at 191 min
+Service time: 18 min
+Passenger 20 is dispatched to Service Station 5
+New passenger 21 is arrived at 194 min
+Service time: 28 min
+Passenger 21 is dispatched to Service Station 1
+Passenger 20 received service and left station at 209 min
+Passenger 18 received service and left station at 212 min
+New passenger 22 is arrived at 214 min
+Service time: 58 min
+Passenger 22 is dispatched to Service Station 2
+New passenger 23 is arrived at 218 min
+Service time: 40 min
+Passenger 23 is dispatched to Service Station 3
+New passenger 24 is arrived at 221 min
+Service time: 33 min
+Passenger 24 is dispatched to Service Station 4
+Passenger 21 received service and left station at 222 min
+New passenger 25 is arrived at 230 min
+Service time: 44 min
+Passenger 25 is dispatched to Service Station 5
+New passenger 26 is arrived at 232 min
+Service time: 53 min
+Passenger 26 is dispatched to Service Station 1
+Passenger 24 received service and left station at 254 min
+New passenger 27 is arrived at 257 min
+Service time: 15 min
+Passenger 27 is dispatched to Service Station 2
+Passenger 23 received service and left station at 258 min
+New passenger 28 is arrived at 259 min
+Service time: 55 min
+Passenger 28 is dispatched to Service Station 3
+New passenger 29 is arrived at 268 min
+Service time: 27 min
+Passenger 29 is dispatched to Service Station 4
+New passenger 30 is arrived at 272 min
+Service time: 37 min
+Passenger 30 is dispatched to Service Station 5
+Passenger 22 received service and left station at 272 min
+Passenger 25 received service and left station at 274 min
+New passenger 31 is arrived at 281 min
+Service time: 53 min
+Passenger 31 is dispatched to Service Station 1
+Passenger 26 received service and left station at 285 min
+Passenger 27 received service and left station at 287 min
+New passenger 32 is arrived at 293 min
+Service time: 44 min
+Passenger 32 is dispatched to Service Station 2
+Passenger 29 received service and left station at 295 min
+New passenger 33 is arrived at 297 min
+Service time: 32 min
+Passenger 33 is dispatched to Service Station 3
+Passenger 30 received service and left station at 311 min
+Passenger 28 received service and left station at 314 min
+New passenger 34 is arrived at 315 min
+Service time: 1 min
+Passenger 34 is dispatched to Service Station 4
+Passenger 34 received service and left station at 316 min
+New passenger 35 is arrived at 321 min
+Service time: 28 min
+Passenger 35 is dispatched to Service Station 5
+New passenger 36 is arrived at 326 min
+Service time: 20 min
+Passenger 36 is dispatched to Service Station 1
+New passenger 37 is arrived at 333 min
+Service time: 35 min
+Passenger 37 is dispatched to Service Station 2
+New passenger 38 is arrived at 337 min
+Service time: 11 min
+Passenger 38 is dispatched to Service Station 3
+Passenger 32 received service and left station at 337 min
+Passenger 31 received service and left station at 338 min
+New passenger 39 is arrived at 345 min
+Service time: 18 min
+Passenger 39 is dispatched to Service Station 4
+Passenger 33 received service and left station at 346 min
+Passenger 35 received service and left station at 349 min
+Passenger 38 received service and left station at 357 min
+Passenger 36 received service and left station at 358 min
+Passenger 39 received service and left station at 363 min
+Passenger 37 received service and left station at 372 min
+
+               2A: Round Robin
+--------------------------------------------------------
+Duration of simulation: 373
+Maximum length of queue of station 1: 2
+Maximum length of queue of station 2: 2
+Maximum length of queue of station 3: 2
+Maximum length of queue of station 4: 2
+Maximum length of queue of station 5: 2
+Maximum waiting time for station 1 queue: 57 min
+Maximum waiting time for station 2 queue: 60 min
+Maximum waiting time for station 3 queue: 55 min
+Maximum waiting time for station 4 queue: 75 min
+Maximum waiting time for station 5 queue: 44 min
+Average waiting time for station 1: 34 min
+Average waiting time for station 2: 35 min
+Average waiting time for station 3: 34 min
+Average waiting time for station 4: 28 min
+Average waiting time for station 5: 22 min
+Rate of occupancy of station 1: 77 %
+Rate of occupancy of station 2: 74 %
+Rate of occupancy of station 3: 72 %
+Rate of occupancy of station 4: 61 %
+Rate of occupancy of station 5: 48 %
+
+----------2B:Passenger placed in shortest queue--------------------
+New passenger 1 is arrived at 2 min
+Service time: 38 min
+Passenger 1 is dispatched to Service Station 1
+New passenger 2 is arrived at 8 min
+Service time: 57 min
+Passenger 2 is dispatched to Service Station 2
+New passenger 3 is arrived at 24 min
+Service time: 49 min
+Passenger 3 is dispatched to Service Station 3
+New passenger 4 is arrived at 37 min
+Service time: 35 min
+Passenger 4 is dispatched to Service Station 4
+Passenger 1 received service and left station at 40 min
+New passenger 5 is arrived at 44 min
+Service time: 25 min
+Passenger 5 is dispatched to Service Station 1
+New passenger 6 is arrived at 48 min
+Service time: 57 min
+Passenger 6 is dispatched to Service Station 5
+New passenger 7 is arrived at 49 min
+Service time: 20 min
+Passenger 7 is dispatched to Service Station 1
+New passenger 8 is arrived at 61 min
+Service time: 8 min
+Passenger 8 is dispatched to Service Station 2
+New passenger 9 is arrived at 64 min
+Service time: 32 min
+Passenger 9 is dispatched to Service Station 3
+Passenger 2 received service and left station at 65 min
+Passenger 5 received service and left station at 69 min
+Passenger 4 received service and left station at 72 min
+New passenger 10 is arrived at 73 min
+Service time: 52 min
+Passenger 10 is dispatched to Service Station 4
+Passenger 8 received service and left station at 73 min
+Passenger 3 received service and left station at 73 min
+New passenger 11 is arrived at 77 min
+Service time: 40 min
+Passenger 11 is dispatched to Service Station 2
+Passenger 7 received service and left station at 89 min
+New passenger 12 is arrived at 91 min
+Service time: 24 min
+Passenger 12 is dispatched to Service Station 1
+New passenger 13 is arrived at 96 min
+Service time: 56 min
+Passenger 13 is dispatched to Service Station 1
+New passenger 14 is arrived at 100 min
+Service time: 15 min
+Passenger 14 is dispatched to Service Station 2
+New passenger 15 is arrived at 101 min
+Service time: 4 min
+Passenger 15 is dispatched to Service Station 3
+Passenger 9 received service and left station at 105 min
+Passenger 6 received service and left station at 105 min
+Passenger 15 received service and left station at 109 min
+Passenger 12 received service and left station at 115 min
+New passenger 16 is arrived at 117 min
+Service time: 12 min
+Passenger 16 is dispatched to Service Station 3
+Passenger 11 received service and left station at 117 min
+New passenger 17 is arrived at 121 min
+Service time: 57 min
+Passenger 17 is dispatched to Service Station 5
+New passenger 18 is arrived at 125 min
+Service time: 6 min
+Passenger 18 is dispatched to Service Station 1
+Passenger 10 received service and left station at 125 min
+New passenger 19 is arrived at 127 min
+Service time: 43 min
+Passenger 19 is dispatched to Service Station 4
+Passenger 16 received service and left station at 129 min
+Passenger 14 received service and left station at 132 min
+New passenger 20 is arrived at 138 min
+Service time: 40 min
+Passenger 20 is dispatched to Service Station 2
+New passenger 21 is arrived at 154 min
+Service time: 16 min
+Passenger 21 is dispatched to Service Station 3
+New passenger 22 is arrived at 155 min
+Service time: 27 min
+Passenger 22 is dispatched to Service Station 2
+New passenger 23 is arrived at 160 min
+Service time: 1 min
+Passenger 23 is dispatched to Service Station 3
+New passenger 24 is arrived at 167 min
+Service time: 34 min
+Passenger 24 is dispatched to Service Station 4
+Passenger 21 received service and left station at 170 min
+Passenger 19 received service and left station at 170 min
+New passenger 25 is arrived at 171 min
+Service time: 19 min
+Passenger 25 is dispatched to Service Station 3
+Passenger 13 received service and left station at 171 min
+Passenger 23 received service and left station at 171 min
+Passenger 18 received service and left station at 177 min
+Passenger 20 received service and left station at 178 min
+Passenger 17 received service and left station at 178 min
+Passenger 25 received service and left station at 190 min
+New passenger 26 is arrived at 194 min
+Service time: 12 min
+Passenger 26 is dispatched to Service Station 1
+Passenger 24 received service and left station at 204 min
+Passenger 22 received service and left station at 205 min
+Passenger 26 received service and left station at 206 min
+New passenger 27 is arrived at 207 min
+Service time: 5 min
+Passenger 27 is dispatched to Service Station 1
+Passenger 27 received service and left station at 212 min
+New passenger 28 is arrived at 227 min
+Service time: 6 min
+Passenger 28 is dispatched to Service Station 1
+Passenger 28 received service and left station at 233 min
+New passenger 29 is arrived at 240 min
+Service time: 38 min
+Passenger 29 is dispatched to Service Station 1
+New passenger 30 is arrived at 264 min
+Service time: 36 min
+Passenger 30 is dispatched to Service Station 2
+Passenger 29 received service and left station at 278 min
+New passenger 31 is arrived at 284 min
+Service time: 33 min
+Passenger 31 is dispatched to Service Station 1
+New passenger 32 is arrived at 289 min
+Service time: 3 min
+Passenger 32 is dispatched to Service Station 3
+Passenger 32 received service and left station at 292 min
+New passenger 33 is arrived at 295 min
+Service time: 15 min
+Passenger 33 is dispatched to Service Station 3
+Passenger 30 received service and left station at 300 min
+New passenger 34 is arrived at 303 min
+Service time: 30 min
+Passenger 34 is dispatched to Service Station 2
+Passenger 33 received service and left station at 310 min
+New passenger 35 is arrived at 312 min
+Service time: 19 min
+Passenger 35 is dispatched to Service Station 3
+Passenger 31 received service and left station at 317 min
+Passenger 35 received service and left station at 331 min
+Passenger 34 received service and left station at 333 min
+New passenger 36 is arrived at 338 min
+Service time: 24 min
+Passenger 36 is dispatched to Service Station 1
+New passenger 37 is arrived at 339 min
+Service time: 12 min
+Passenger 37 is dispatched to Service Station 2
+New passenger 38 is arrived at 345 min
+Service time: 7 min
+Passenger 38 is dispatched to Service Station 3
+New passenger 39 is arrived at 348 min
+Service time: 48 min
+Passenger 39 is dispatched to Service Station 4
+Passenger 37 received service and left station at 351 min
+Passenger 38 received service and left station at 352 min
+Passenger 36 received service and left station at 362 min
+Passenger 39 received service and left station at 396 min
+
+           2B: Random queue method 
+--------------------------------------------------------
+Duration of simulation: 397
+Maximum length of queue of station 1: 2
+Maximum length of queue of station 2: 2
+Maximum length of queue of station 3: 2
+Maximum length of queue of station 4: 2
+Maximum length of queue of station 5: 1
+Maximum waiting time for station 1 queue: 75 min
+Maximum waiting time for station 2 queue: 57 min
+Maximum waiting time for station 3 queue: 49 min
+Maximum waiting time for station 4 queue: 52 min
+Maximum waiting time for station 5 queue: 57 min
+Average waiting time for station 1: 28 min
+Average waiting time for station 2: 30 min
+Average waiting time for station 3: 16 min
+Average waiting time for station 4: 35 min
+Average waiting time for station 5: 38 min
+Rate of occupancy of station 1: 72 %
+Rate of occupancy of station 2: 66 %
+Rate of occupancy of station 3: 44 %
+Rate of occupancy of station 4: 53 %
+Rate of occupancy of station 5: 28 %
+
+-------------2C: Passenger placed in random queue------------------
+New passenger 1 is arrived at 5 min
+Service time: 39 min
+Passenger 1 is dispatched to Service Station 2
+Passenger 1 received service and left station at 44 min
+New passenger 2 is arrived at 49 min
+Service time: 37 min
+Passenger 2 is dispatched to Service Station 1
+New passenger 3 is arrived at 56 min
+Service time: 51 min
+Passenger 3 is dispatched to Service Station 3
+New passenger 4 is arrived at 81 min
+Service time: 31 min
+Passenger 4 is dispatched to Service Station 4
+New passenger 5 is arrived at 86 min
+Service time: 37 min
+Passenger 5 is dispatched to Service Station 4
+Passenger 2 received service and left station at 86 min
+New passenger 6 is arrived at 102 min
+Service time: 22 min
+Passenger 6 is dispatched to Service Station 5
+Passenger 3 received service and left station at 107 min
+New passenger 7 is arrived at 112 min
+Service time: 15 min
+Passenger 7 is dispatched to Service Station 3
+Passenger 4 received service and left station at 112 min
+New passenger 8 is arrived at 117 min
+Service time: 30 min
+Passenger 8 is dispatched to Service Station 5
+Passenger 6 received service and left station at 124 min
+Passenger 7 received service and left station at 127 min
+New passenger 9 is arrived at 132 min
+Service time: 43 min
+Passenger 9 is dispatched to Service Station 2
+New passenger 10 is arrived at 133 min
+Service time: 32 min
+Passenger 10 is dispatched to Service Station 4
+New passenger 11 is arrived at 148 min
+Service time: 41 min
+Passenger 11 is dispatched to Service Station 3
+Passenger 5 received service and left station at 149 min
+Passenger 8 received service and left station at 154 min
+New passenger 12 is arrived at 172 min
+Service time: 59 min
+Passenger 12 is dispatched to Service Station 3
+Passenger 9 received service and left station at 175 min
+New passenger 13 is arrived at 179 min
+Service time: 12 min
+Passenger 13 is dispatched to Service Station 4
+Passenger 10 received service and left station at 181 min
+Passenger 11 received service and left station at 189 min
+Passenger 13 received service and left station at 193 min
+New passenger 14 is arrived at 205 min
+Service time: 31 min
+Passenger 14 is dispatched to Service Station 5
+New passenger 15 is arrived at 209 min
+Service time: 49 min
+Passenger 15 is dispatched to Service Station 4
+New passenger 16 is arrived at 218 min
+Service time: 37 min
+Passenger 16 is dispatched to Service Station 4
+New passenger 17 is arrived at 222 min
+Service time: 16 min
+Passenger 17 is dispatched to Service Station 1
+New passenger 18 is arrived at 235 min
+Service time: 57 min
+Passenger 18 is dispatched to Service Station 4
+Passenger 14 received service and left station at 236 min
+Passenger 17 received service and left station at 238 min
+Passenger 12 received service and left station at 248 min
+New passenger 19 is arrived at 251 min
+Service time: 22 min
+Passenger 19 is dispatched to Service Station 1
+Passenger 15 received service and left station at 258 min
+Passenger 19 received service and left station at 273 min
+Passenger 16 received service and left station at 295 min
+New passenger 20 is arrived at 303 min
+Service time: 7 min
+Passenger 20 is dispatched to Service Station 2
+New passenger 21 is arrived at 304 min
+Service time: 26 min
+Passenger 21 is dispatched to Service Station 4
+New passenger 22 is arrived at 307 min
+Service time: 58 min
+Passenger 22 is dispatched to Service Station 5
+New passenger 23 is arrived at 309 min
+Service time: 15 min
+Passenger 23 is dispatched to Service Station 4
+Passenger 20 received service and left station at 310 min
+New passenger 24 is arrived at 313 min
+Service time: 23 min
+Passenger 24 is dispatched to Service Station 5
+New passenger 25 is arrived at 328 min
+Service time: 7 min
+Passenger 25 is dispatched to Service Station 3
+New passenger 26 is arrived at 335 min
+Service time: 8 min
+Passenger 26 is dispatched to Service Station 1
+Passenger 25 received service and left station at 335 min
+Passenger 26 received service and left station at 343 min
+New passenger 27 is arrived at 346 min
+Service time: 33 min
+Passenger 27 is dispatched to Service Station 4
+Passenger 18 received service and left station at 352 min
+Passenger 22 received service and left station at 365 min
+Passenger 21 received service and left station at 378 min
+Passenger 24 received service and left station at 388 min
+Passenger 23 received service and left station at 393 min
+Passenger 27 received service and left station at 426 min
+
+               2C: Random queue method
+--------------------------------------------------------
+Duration of simulation: 427
+Maximum length of queue of station 1: 1
+Maximum length of queue of station 2: 1
+Maximum length of queue of station 3: 2
+Maximum length of queue of station 4: 4
+Maximum length of queue of station 5: 2
+Maximum waiting time for station 1 queue: 37 min
+Maximum waiting time for station 2 queue: 43 min
+Maximum waiting time for station 3 queue: 76 min
+Maximum waiting time for station 4 queue: 117 min
+Maximum waiting time for station 5 queue: 75 min
+Average waiting time for station 1: 16 min
+Average waiting time for station 2: 22 min
+Average waiting time for station 3: 31 min
+Average waiting time for station 4: 57 min
+Average waiting time for station 5: 37 min
+Rate of occupancy of station 1: 19 %
+Rate of occupancy of station 2: 20 %
+Rate of occupancy of station 3: 40 %
+Rate of occupancy of station 4: 77 %
+Rate of occupancy of station 5: 38 %

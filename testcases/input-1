@@ -1,0 +1,4 @@
+rimpalsuthar@Rimpals-MacBook-Pro src % java Driver 
+Please enter duration of simulation in minutes: 400
+Please enter average arrival rate in minutes: 5
+Please enter average service rate in minutes: 15
